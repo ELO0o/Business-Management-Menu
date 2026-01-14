@@ -1,2 +1,1 @@
-# tribbles-pos
-Point of Sales project
+# Business Management Menu
